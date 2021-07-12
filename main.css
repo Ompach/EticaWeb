@@ -1,0 +1,19 @@
+
+body{
+   min-height: 80rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.carousel-inner{
+    max-height: 40rem;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+footer{
+   
+  margin-top: 6500px;
+    position: sticky;
+}
